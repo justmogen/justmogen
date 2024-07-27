@@ -11,8 +11,8 @@ With a strong foundation in backend development, I bring a blend of technical ex
 - **DevOps & CI/CD:** Docker, CI/CD, Jenkins
 
 ## Key Projects 📚
-- **[Celestial Haven Retreat](https://github.com/justmogen/celestial-haven-retreat):** Revolutionizing hotel management with an innovative platform that streamlines operations and enhances guest experiences.
-- **[FastAPI CRUD Project](https://github.com/justmogen/fastapi-crud-project):** Developing a robust API to manage user data efficiently and securely.
+- **[Celestial Haven Retreat](https://github.com/justmogen/Celestial-haven-retreat):** Revolutionizing hotel management with an innovative platform that streamlines operations and enhances guest experiences.
+- **[FastAPI CRUD Project](https://github.com/justmogen/Celestial-haven-retreat):** Developing a robust API to manage user data efficiently and securely.
 
 ## Professional Goals 🚀
 - **Career Development:** I am focused on advancing my career in backend and API development, leveraging my technical skills to build impactful tech solutions.
