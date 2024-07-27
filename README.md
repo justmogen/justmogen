@@ -19,8 +19,8 @@ With a strong foundation in backend development, I bring a blend of technical ex
 - **Continuous Learning:** Committed to ongoing professional development, I stay updated with the latest tech trends and continuously improve my coding skills. 📈
 
 ## Connect with Me 📬
-- 🐦 [Twitter](https://twitter.com/justmogen)
-- 📫 [Email](mailto:alexmorgan@example.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/justmogen)
+- 🐦 [Twitter](https://x.com/JustMogen)
+- 📫 [Email](mailto:justmogen@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alex-morgan-0a1330239/)
 
 I’m eager to collaborate on projects that leverage technology for innovative solutions. Let’s connect and build something amazing together! 🌍
