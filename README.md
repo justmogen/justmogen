@@ -1,5 +1,3 @@
-Sure, Alex! Here’s an improved profile readme tailored to your background and goals:
-
 ```markdown
 👋 Hi, I'm Alex Morgan! I’m a passionate software engineer specializing in backend development. My focus is on building scalable and efficient APIs and services that drive impactful tech solutions.
 
