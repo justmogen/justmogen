@@ -4,9 +4,9 @@
 With a strong foundation in backend development, I bring a blend of technical expertise and a keen eye for detail to the programming world. My dedication lies in developing software solutions that streamline processes and enhance user experiences.
 
 ## Technical Skills 🛠️
-- **Languages:** Javascript, Python, TypeScript, Go, C
-- **Frameworks & Libraries:** Django, React, Next.js, FastAPI
-- **Tools & Platforms:** GitHub, Docker, Azure, Heroku, AWS, Jenkins
+- **Languages:** Javascript, Python
+- **Frameworks & Libraries:** React, Next.js, FastAPI
+- **Tools & Platforms:** GitHub, Docker, Azure, Heroku, AWS
 - **Databases:** PostgreSQL, SQLAlchemy
 - **DevOps & CI/CD:** Docker, CI/CD, Jenkins
 
